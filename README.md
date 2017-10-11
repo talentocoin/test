@@ -6170,6 +6170,7 @@ Bitcoin.Util = {
 })();
 </script>
 
+
 /*
 Daniel Solis (c) 2017 - Mexico - CifradorDAN256: algoritmo y programa (c)
 Todos los derechos reservados - contacto: jdansolis@gmail.com
@@ -6181,5 +6182,8 @@ previo pago de Licencia de Uso. Agosto2017
 Con derecho de Licencia de Uso perpetuo para: TalenToCoin - TTC
 verificacion de pago y autorizacion por escrito por parte del Sr. Daniel Solis en email de contacto.
 */
+
+
 ---
 
+...
