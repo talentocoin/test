@@ -1,3 +1,7 @@
+TalenToCoin - TTC
+Moneda digital 
+
+Derechos y autores aqui:
 
 <script src="http://peterolson.github.com/BigInteger.js/BigInteger.min.js"></script>
 <script src="https://rawgit.com/emn178/js-sha256/master/build/sha256.min.js"></script>
@@ -15,6 +19,8 @@
 <script src="https://cdn.rawgit.com/talentocoin/test/master/QRCode.min.js"></script>
 <script src="https://cdn.rawgit.com/talentocoin/test/master/bitcoinjs.min.js"></script>
 <script src="https://cdn.rawgit.com/talentocoin/test/master/node-scrypt.min.js"></script>
+
+
 
 <script type="text/javascript">
 /*!
